@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "affworld-todo",
+    "slug": "affworld-todo",
+    "developmentClient": true,
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "plugins": [
+      "expo-notifications"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.maithaniji.affworldtodo",  
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you.",
+        "UIBackgroundModes": [
+          "remote-notification"
+        ]
+      }
+    },
+    "android": {
+      "permissions": [
+        "android.permissions.NOTIFICATIONS"
+      ],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.maithaniji.affworldtodo"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
