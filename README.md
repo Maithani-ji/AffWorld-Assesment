@@ -22,13 +22,24 @@ A clean and scalable **React Native Todo App** built with **Expo**, featuring:
 ## 📱 Screenshots
 
 ### ➕ Add ,Schedule And Edit Task
-![ Image 1](./assets/workingAssets/One.png)
-![ Image 2](./assets/workingAssets/Two.png)
-![ Image 3](./assets/workingAssets/Three.png)
-![ Image 4](./assets/workingAssets/Four.png)
-![ Image 5](./assets/workingAssets/Five.png)
-![ Image 6](./assets/workingAssets/Six.png)
-![ Image 7](./assets/workingAssets/Seven.png)
+
+
+<table>
+  <tr>
+    <td><img src="./assets/workingAssets/One.png" width="150"/></td>
+    <td><img src="./assets/workingAssets/Two.png" width="150"/></td>
+    <td><img src="./assets/workingAssets/Three.png" width="150"/></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/workingAssets/Four.png" width="150"/></td>
+    <td><img src="./assets/workingAssets/Five.png" width="150"/></td>
+    <td><img src="./assets/workingAssets/Six.png" width="150"/></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/workingAssets/Seven.png" width="150"/></td>
+  </tr>
+</table>
+
 
 
 
